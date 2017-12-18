@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "print("Hello World")"
-date: 2017-12-17
+date: 2017-12-18
 ---
 The year might be coming to an end but my journey is just about to dawn. 
 <h1>**Hello World**</h1> 
