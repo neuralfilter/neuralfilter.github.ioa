@@ -1,3 +1,3 @@
 name: Seiji Sakurai
-markdown: redcarpet
+markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
