@@ -3,7 +3,6 @@ layout: post
 title: "Reflecting on 1A"
 date: 2018-12-26
 ---
-<h1>Reflecting on 1A</h1>
 <p>I've finally finished my exams at my first term in Waterloo and wanted to reflect on my term here.</p>
 
 <p>I want to start off by thanking my professors for spending the time teaching in-class and outside of class, I would have not survived the semester without the sincere help from my professors.</p>
