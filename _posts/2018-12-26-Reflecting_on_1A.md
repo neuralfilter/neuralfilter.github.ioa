@@ -3,7 +3,7 @@ layout: post
 title: "Reflecting on 1A"
 date: 2018-12-26
 ---
-<h1>**Reflecting on 1A**</h1>
+<h1>Reflecting on 1A</h1>
 <p>I've finally finished my exams at my first term in Waterloo and wanted to reflect on my term here.
 
 I want to start off by thanking my professors for spending the time teaching in-class and outside of class, I would have not survived the semester without the sincere help from my professors.
@@ -13,7 +13,7 @@ Now that I have finished my semester I feel more lost than ever. Perhaps I was n
 Although I've focused on what I didn't get, I want to share what I gained from the semester.
 I learned the warmth of kindness from my friends I was able to make here at Waterloo. As a foreigner living in Canada for the first time 
 I also learned of the wonderful culture and diverse people of Canada.
-There was much to gain and learn from this semester and needless to say I am looking forward to my next semester at Waterloo
+There was much to gain and learn from this semester and needless to say I am looking forward to my next semester at Waterloo</p>
 
 
-Note to future self: You will fall forward.</p>
+<p>Note to future self: You will fall forward.</p>
