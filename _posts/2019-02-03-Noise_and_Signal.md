@@ -4,8 +4,6 @@ title: "Noise and Signal"
 date: 2019-02-3
 ---
 
-Noise and Signal
-
 <p>Focus can mean a lot of things for people and it could mean anything from concentrating on doing homework or reducing noise in the environment.</p>
 <p>For me focus means to seek personal value by changing extrinsict motivations to intrinsict motivations. </p>
 <p>In a school like Waterloo where life centers around extrinsic motivators such as grades and co-op jobs, it is very easy to get "distracted".</p>
