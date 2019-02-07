@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+
+User-Agent: Googlebot
+Allow: /http://seijisakurai.com/
+Disallow: /http://seijisakurai.com/Resume.pdf
+
