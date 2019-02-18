@@ -4,3 +4,4 @@ permalink: /blog/:year/:month/:day/:title
 google_analytics: UA-134124145-1
 
 theme: jekyll-theme-cayman
+comments: true
